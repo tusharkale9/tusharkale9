@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tusharkale. I am a SA with migrations team based out of Stockholm, Sweden.
+- 👋 Hi, I’m @tusharkale. I am a Solutions Architect within Professional Services Migrations team who is based out of Stockholm, Sweden.
 - 👀 I’m interested in ML and Data Science.
 - 🌱 I’m currently learning MLOPs productionalization.
 - 💞️ I’m looking to collaborate on MLProjects.
